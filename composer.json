@@ -1,0 +1,8 @@
+{
+    "name": "vendor/name",
+    "type": "project",
+    "require": {
+        "klein/klein": "^2.1",
+        "vlucas/valitron": "^1.4"
+    }
+}
